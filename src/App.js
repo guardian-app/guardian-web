@@ -20,6 +20,7 @@ import stat from './pages/stat';
 
 function App() {
   return (
+   
    <Router> 
     {/* <div className="App"> */}
       {/* <Navbar /> */}
